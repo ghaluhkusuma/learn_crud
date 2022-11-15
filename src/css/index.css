@@ -1,0 +1,14 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
+
+* {
+    font-family: "Inter";
+}
+
+.mx-auto{
+    width: 800px;
+}
+
+.card {
+    margin-top: 10px;
+}
